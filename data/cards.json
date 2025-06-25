@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tarjeta de presentación",
+    "descripcion": "Impresión a todo color, papel couché.",
+    "imagen": "img/tarjeta1.jpeg"
+  },
+  {
+    "id": 2,
+    "nombre": "Rótulo en vinil",
+    "descripcion": "Alta calidad para exteriores.",
+    "imagen": "img/rotulo1.jpg"
+  }
+]
